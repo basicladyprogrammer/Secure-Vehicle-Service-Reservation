@@ -29,7 +29,7 @@
 <title>VehicleCareReserve</title>
 </head>
 
-<body class="img js-fullheight" style="background-image: url(images/vehicleServicebackground1.jpg);">
+<body class="img js-fullheight" style="background-image: url(images/vehicleServicebackground.jpg);">
 	<section class="ftco-section">
 		<div class="container">
 			<div class="row">

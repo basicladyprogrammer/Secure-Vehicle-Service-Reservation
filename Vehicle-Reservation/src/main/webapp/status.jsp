@@ -13,7 +13,7 @@
 <aside class="sidenav navbar navbar-vertical navbar-expand-xs border-0 border-radius-xl my-3 fixed-start ms-3 custom-sidebar" id="sidenav-main">
     <div class="sidenav-header">
       <i class="fas fa-times p-3 cursor-pointer text-white opacity-5 position-absolute end-0 top-0 d-none d-xl-none" aria-hidden="true" id="iconSidenav"></i>
-      <a class="navbar-brand m-0" href=" https://demos.creative-tim.com/material-dashboard/pages/dashboard " target="_blank">
+      <a class="navbar-brand m-0" href="index.jsp" target="_blank">
         <span class="ms-1 font-weight-bold text-white">Vehicle Service Reservation</span>
       </a>
     </div>
@@ -21,7 +21,7 @@
     <div class="collapse navbar-collapse  w-auto  max-height-vh-100" id="sidenav-collapse-main">
       <ul class="navbar-nav">
         <li class="nav-item">
-          <a class="nav-link text-white active bg-warning" href="home.jsp">
+          <a class="nav-link text-white" href="home.jsp">
             <div class="text-white text-center me-2 d-flex align-items-center justify-content-center">
               <span style="font-family: 'Material Icons'; font-size: 24px; opacity: 10;">account_circle</span>
 
@@ -30,7 +30,7 @@
           </a>
         </li>
         <li class="nav-item">
-          <a class="nav-link text-white " href="registerService.jsp">
+          <a class="nav-link text-white" href="registerService.jsp">
             <div class="text-white text-center me-2 d-flex align-items-center justify-content-center">
              	<span style="font-family: 'Material Icons'; font-size: 24px; opacity: 10;">add_box</span>
             </div>
@@ -38,7 +38,7 @@
           </a>
         </li>
         <li class="nav-item">
-          <a class="nav-link text-white " href="upcomingReservation.jsp">
+          <a class="nav-link text-white" href="upcomingReservation.jsp">
             <div class="text-white text-center me-2 d-flex align-items-center justify-content-center">
               <span style="font-family: 'Material Icons'; font-size: 24px; opacity: 10;">upcoming</span>
             </div>
@@ -46,7 +46,7 @@
           </a>
         </li>
         <li class="nav-item">
-          <a class="nav-link text-white " href="viewService.jsp.jsp">
+          <a class="nav-link text-white" href="viewService.jsp.jsp">
             <div class="text-white text-center me-2 d-flex align-items-center justify-content-center">
               <span style="font-family: 'Material Icons'; font-size: 24px; opacity: 10;">view_list</span>
             </div>

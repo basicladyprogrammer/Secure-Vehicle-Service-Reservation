@@ -1,7 +1,7 @@
 @charset "UTF-8";
 
 .heading-section{
-	color: #eebf07;
+	color:red;
 	margin-left: 50px;
 	font-size: 34px;
 }
@@ -22,7 +22,7 @@
 }
 
 .ftco-section .social  button{
-	background-color: #eebf07;
+	background-color: red;
 	margin-left: 43px;
 	width: 70%;
 	border-bottom: 0.25rem;
